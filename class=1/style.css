@@ -135,3 +135,7 @@ table.one{
     border-spacing: 20px; 
     border-collapse: collapse;
 }
+h1{
+    background-color: black;
+    color: white;
+}
